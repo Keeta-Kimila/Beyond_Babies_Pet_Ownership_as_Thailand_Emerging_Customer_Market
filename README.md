@@ -92,7 +92,7 @@ When compared with babies (0–2 years old):
 
 <img width="4470" height="2966" alt="Baby_0_to_2_and_Urinary_Incontinence_of_Elderly" src="https://github.com/user-attachments/assets/1f688489-0fd9-4332-8ca8-37757e4d46bf" />
 <p align="center">
-Figure 12: Babies (0–2) vs. elderly incontinence population.
+Figure 12: Combined Babies (0–2) and Elderly incontinence population.
 </p>
 
 <img width="4470" height="2966" alt="Ratio_between_Baby_0_to_2_and_Urinary_Incontinence_of_Elderly" src="https://github.com/user-attachments/assets/7ee15d02-b1ff-4a1a-9503-5a1e1024f7f4" />
