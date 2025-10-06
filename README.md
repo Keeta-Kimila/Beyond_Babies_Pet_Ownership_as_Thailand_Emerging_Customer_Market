@@ -130,8 +130,8 @@ Figure 15: Annual baby births trend.
 Figure 16: Pet ownership trend.
 </p>
 
-Babies: decline by <b>~31,336 per year (~85 per day)</b>\
-Pets: increase by <b>~1,871 per day (dogs +1,001, cats +869)</b>
+Babies: decline by <b><img src="https://latex.codecogs.com/gif.latex?\approx" width="8" height="6" /> 31,336 per year (<img src="https://latex.codecogs.com/gif.latex?\approx" width="8" height="6" /> 85 per day)</b>\
+Pets: increase by <b><img src="https://latex.codecogs.com/gif.latex?\approx" width="8" height="6" /> 1,871 per day (dogs +1,001, cats +869)</b>
 
 ## Final Insights for Businesses
 - <b>Baby market:</b> shrinking due to declining birth rates.
